@@ -28,30 +28,30 @@ Dengan JakBites, menemukan tempat makan yang sempurna di Jakarta menjadi lebih p
 
 ## Modules 📦
 
-1. **Authentication and Admin (Autentikasi dan Admin):**
+1. **Authentication and Admin (Autentikasi dan Admin): Fadhlan**
    - **🔐 Login Page:** Halaman untuk masuk ke akun pengguna.
    - **📝 Register Page:** Halaman pendaftaran untuk pengguna baru.
    - **🛠️ Admin Page:** Halaman yang memungkinkan admin untuk mengelola website.
    - **🍔 Add Food and Resto:** Admin dapat menambah data makanan dan restoran baru.
 
-2. **Main:**
+2. **Main: Christian**
    - **🏠 Homepage (Static HTML Page):** Halaman statis yang menampilkan informasi dasar tentang JakBites.
    - **📋 Main Page (Daftar Produk):** Halaman yang menampilkan daftar makanan dan restoran, lengkap dengan fitur penyortiran dan filter untuk memudahkan pencarian.
 
-3. **Food (Makanan):**
+3. **Food (Makanan): Shintia**
    - **🍽️ Product Page:** Halaman yang menampilkan detail produk makanan, termasuk rating dan ulasan dari pengguna.
    - **⭐ Rating and Review:** Pengguna dapat memberikan rating serta menulis ulasan untuk produk makanan.
 
-4. **Restaurant (Restoran):**
+4. **Restaurant (Restoran): Alpha**
    - **🏢 Restaurant Page:** Halaman yang menampilkan detail restoran, termasuk daftar makanan yang disediakan.
    - **🍛 Resto Food List:** Daftar makanan yang tersedia di restoran tertentu.
    - **🌟 Resto Rating:** Pengguna dapat memberikan rating dan ulasan untuk restoran.
 
-5. **User (Pengguna):**
+5. **User (Pengguna): William**
    - **👤 User Page:** Halaman yang menampilkan profil pengguna, di mana mereka dapat memperbarui informasi dan mengelola akun, termasuk mengubah kata sandi.
    - **❤️ Favorite Page:** Pengguna dapat melihat dan mengelola daftar restoran dan makanan favorit mereka.
 
-## Dataset 📊
+## Initial Dataset 📊
 
 - [Kaggle - Indonesia Food Delivery GoFood Product List](https://www.kaggle.com/datasets/ariqsyahalam/indonesia-food-delivery-gofood-product-list)
 
